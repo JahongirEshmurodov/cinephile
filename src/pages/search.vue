@@ -1,0 +1,13 @@
+<template>
+    <div>
+        <input v-modal="search"/>
+    </div>
+</template>
+
+<script setup>
+const search= ref("")
+</script>
+
+<style lang="scss" scoped>
+
+</style>
