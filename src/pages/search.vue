@@ -9,5 +9,7 @@ const search= ref("")
 </script>
 
 <style lang="scss" scoped>
-
+.html {
+    text-align: center;
+}
 </style>
