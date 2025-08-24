@@ -11,5 +11,6 @@ const search= ref("")
 <style lang="scss" scoped>
 .html {
     text-align: center;
+    text-align: center;
 }
 </style>
