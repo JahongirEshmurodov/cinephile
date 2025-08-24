@@ -12,5 +12,6 @@ const search= ref("")
 .html {
     text-align: center;
     text-align: center;
+    text-align: center;
 }
 </style>
