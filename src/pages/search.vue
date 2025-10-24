@@ -15,6 +15,7 @@ const search= ref("")
     text-align: center;
     text-align: center;
     text-align: center;
+    text-align: center;
 
     text-align: center;
     text-align: center;
